@@ -19,7 +19,11 @@ class changedViewController: UIViewController {
         view.backgroundColor = backgroundcolor
         changedtext.text = datafromto
         // Do any additional setup after loading the view.
+        
+        
+        print("hello ")
     }
+    
     
     
 
